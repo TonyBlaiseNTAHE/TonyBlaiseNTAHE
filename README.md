@@ -10,11 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Tony%20Blaise%20NTAHE%20;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;COMPUTER%20SCIENTIST&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p align="center">
-<a href=#><img src="github-user-contribution.svg"></a> 
- </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyblaisentahe&label=Profile%20views&color=0e75b6&style=flat" alt="tonyblaisentahe" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyblaisentahe" alt="tonyblaisentahe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/t_ntahe" target="blank"><img src="https://img.shields.io/twitter/follow/t_ntahe?logo=twitter&style=for-the-badge" alt="t_ntahe" /></a> </p>
