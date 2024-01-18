@@ -9,9 +9,6 @@
 </p>
 </p>
 
-<p align="center">
-<a href=#><img src="github-user-contribution.svg"></a> 
- </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyblaisentahe" alt="tonyblaisentahe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/t_ntahe" target="blank"><img src="https://img.shields.io/twitter/follow/t_ntahe?logo=twitter&style=for-the-badge" alt="t_ntahe" /></a> </p>
